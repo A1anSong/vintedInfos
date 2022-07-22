@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "playwright": "1.22"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
